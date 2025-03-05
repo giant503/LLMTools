@@ -9,6 +9,7 @@
 # !important_file.txt
 
 # Common Python excludes
+.idea/  # Ignore all files in the .idea directory (PyCharm settings)
 __pycache__/
 *.py[cod]
 *$py.class
