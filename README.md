@@ -41,8 +41,3 @@ Planned additions include:
 - Cost estimation tools
 - Prompt management systems
 
-## Contributing
-Contributions are welcome! Feel free to submit pull requests with new tools or improvements to existing ones.
-
-## License
-[MIT License](LICENSE)
